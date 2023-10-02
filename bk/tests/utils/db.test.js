@@ -24,3 +24,4 @@ describe('+ DBClient utility', () => {
     expect(await dbClient.nbFiles()).to.equal(0);
   });
 });
+
